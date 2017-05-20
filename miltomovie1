@@ -1,27 +1,15 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://fordhamcyberculture.files.wordpress.com/2014/03/cycle01-transparent.png" group-title="", Ondemand Milton Move
- 
- 
-#EXTINF:-1 tvg-logo="https://fordhamcyberculture.files.wordpress.com/2014/03/cycle01-transparent.png" group-title="", 16/05/2017
- 
-#EXTINF:-1 tvg-logo="http://epg-milton.ucoz.com.br/eu.jpg" group-title="", Milton Guedes
-
-
 
 
 #EXTINF:-1 tvg-logo="https://resizing.flixster.com/A-6k83WMf4X3dKxnFBGUmFTx1zs=/206x305/v1.bTsxMjM2MzM0MztqOzE3MzMzOzEyMDA7NDgwOzcyMA",THE WARRIORS GATE - Dublado
 http://vd.ec.cx/vd/dd/RC/RCFServer3/ondemand/WRISGT.mp4
-
 #EXTINF:-1 tvg-logo="https://ewedit.files.wordpress.com/2017/04/anne-netflix-poster.jpg?w=1600&h=2370", OS AMORES DE ANNE - Legendado
 http://vd.ec.cx/vd/dd/RC/RCFServer3/ondemand/OSAMRSDANLEG.mp4
-
 #EXTINF:-1 tvg-logo="http://www.thepiratetorrent.org/wp-content/uploads/2017/04/O-Chamado-3.jpg",O CHAMADO 3 - Dublado
 http://vd.ec.cx/vd/dd/RC/RCFServer3/ondemand/OCHMD3.mp4
-
 #EXTINF:-1 tvg-logo="http://www.thepiratetorrent.org/wp-content/uploads/2017/04/O-Chamado-3.jpg",O CHAMADO 3 - Legendado
 http://vd.ec.cx/vd/dd/RC/RCFServer3/ondemand/OCHMD3LEG.mp4
-
 #EXTINF:-1 tvg-logo="https://s-media-cache-ak0.pinimg.com/736x/c2/3b/46/c23b46acad9c063ad629a17eb47c84cf.jpg",MAX STEEL - Dublado
 http://vd.ec.cx/vd/dd/RC/RCFServer3/ondemand/MXSTL.mp4
 
