@@ -1,6 +1,130 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/P0CP2Ku.jpg",Fragmentado (2017)
+http://ca.netcine.tv/ntcdnbucket/filmes2017/FRAGDUB-ALTO.mp4
 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/JhaLfZH.jpg",Nossos Amantes (2017)
+http://vd.ec.cx/vd/dd/RC/RCFServer3/ondemand/NOSAMNTS.mp4
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/c0x7nWP.jpg",O Auto da Compadecida (2000)
+http://vd.ec.cx/vd/dd/RC/RCFServer3/ondemand/OATDCPDCDA.mp4
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/hWj9I2N.jpg",Lisbela e o Prisioneiro (2003)
+http://vd.ec.cx/vd/dd/RC/RCFServer3/ondemand/LSBLEOPRSNRO.mp4
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/4oAePPY.jpg",Alem Da Realidade (2016)
+http://vd.ec.cx/vd/dd/RC/RCFServer3/ondemand/ALMDRLD.mp4
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/yJGSYhp.jpg",Do Que as Mulheres Gostam (2001)
+http://vd.ec.cx/vd/dd/RC/RCFServer3/ondemand/DQAMLHRSGSTM.mp4
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/kw527KL.jpg",Cruzeiro das Loucas (2003)
+http://vd.ec.cx/vd/dd/RC/RCFServer3/ondemand/OCRZRDLCS.mp4
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/K5Yjgpp.jpg",Bem Casados (2015)
+http://vd.ec.cx/vd/dd/RC/RCFServer3/ondemand/BMCSDOS.mp4
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/1NcULW1.jpg",Aquarius (2016)
+http://vd.ec.cx/vd/dd/RC/RCFServer3/ondemand/AQRIS.mp4
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/qaUQEwy.jpg",Apostando Tudo (2017)
+http://vd.ec.cx/vd/dd/RC/RCFServer3/ondemand/APSTNDTD.mp4
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/LhT15jC.jpg",Amor em Sampa (2016)
+http://vd.ec.cx/vd/dd/RC/RCFServer3/ondemand/AMREMSP.mp4
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/sViELpr.jpg",Busca Explosiva 5: Campo de Batalha (2017)
+http://vd.ec.cx/vd/dd/RC/RCFServer3/ondemand/BSCEXPLSV5.mp4
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/91UGPTb.jpg",Busca Explosiva 4 (2015)
+http://vd.ec.cx/vd/dd/RC/RCFServer3/ondemand/BSCEXPLSV4.mp4
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/DKpLSYW.jpg",Busca Explosiva 3 (2013)
+http://vd.ec.cx/vd/dd/RC/RCFServer3/ondemand/BSCEXPLSV3.mp4
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/P7vwfpP.jpg",Busca Explosiva 2 (2009)
+http://vd.ec.cx/vd/dd/RC/RCFServer3/ondemand/BSCEXPLSV2.mp4
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/a8oOrQB.jpg",Busca Explosiva (2006)
+http://vd.ec.cx/vd/dd/RC/RCFServer3/ondemand/BSCEXPLSV1.mp4
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/fIXFttl.jpg",Capitao Fantastico (2016)
+http://vd.ec.cx/vd/dd/RC/RCFServer3/ondemand/CPTFNTSC.mp4
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/Pf0inNB.jpg",Chato: O Rei do Brasil (2015)
+http://vd.ec.cx/vd/dd/RC/RCFServer3/ondemand/CHTORDBR.mp4
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/nuGlwoB.jpg",Depois de Tudo (2015)
+http://vd.ec.cx/vd/dd/RC/RCFServer3/ondemand/DPSDTD.mp4
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/poOKbyn.jpg",Ela Danca, Eu Danco (2006)
+http://vd.ec.cx/vd/dd/RC/RCFServer3/ondemand/ELDNCEUDNC1.mp4
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/E7lWlyJ.jpg",Ela Danca, Eu Danco 2 (2007)
+http://vd.ec.cx/vd/dd/RC/RCFServer3/ondemand/ELDNCEUDNC2.mp4
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/YwhU5Jk.jpg",Ela Danca, Eu Danco 3 (2010)
+http://vd.ec.cx/vd/dd/RC/RCFServer3/ondemand/ELDNCEUDNC3.mp4
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MhKO1k9.jpg" group-title="FILMES",Ela Danca, Eu Danco 4 (2012)
+http://vd.ec.cx/vd/dd/RC/RCFServer3/ondemand/ELDNCEUDNC4.mp4
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/wuvfWlg.jpg",Ela Danca, Eu Danco 5: Tudo ou Nada (2015)
+http://vd.ec.cx/vd/dd/RC/RCFServer3/ondemand/ELDNCEUDNC5.mp4
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/icJrNXi.jpg",Entre Abelhas (2015)
+http://vd.ec.cx/vd/dd/RC/RCFServer3/ondemand/ENTRABLHS.mp4
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/74qVwWK.jpg",Escondidos (2015)
+http://vd.ec.cx/vd/dd/RC/RCFServer3/ondemand/ESCNDS.mp4
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/rCFATLm.jpg",Perdido em Marte (2015)
+http://vd.ec.cx/vd/dd/RC/RCFServer2/ondemand/PRDEMMRTE.mp4
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/D2JyKm0.jpg",Jose do Egito: O Filme - (2016)
+http://vd.ec.cx/vd/dd/RC/RCFServer3/ondemand/JSDEGTOFLM.mp4
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/GMZ9os4.jpg",Jonas (2016)
+http://vd.ec.cx/vd/dd/RC/RCFServer3/ondemand/JNS.mp4
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/sNGxiO2.jpg",Mundo Cao (2016)
+http://vd.ec.cx/vd/dd/RC/RCFServer3/ondemand/MNDCA.mp4
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/bFkI5VE.jpg",Mae So Ha Uma (2016)
+http://vd.ec.cx/vd/dd/RC/RCFServer3/ondemand/MASHUM.mp4
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/nMRiSz5.png",Nao Me Abandone Jamais (2011)
+http://vd.ec.cx/vd/dd/RC/RCFServer3/ondemand/NMABNDJMS.mp4
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/9M0zXlm.jpg",Nao eh Mais Um Besteirol Americano (2002)
+http://vd.ec.cx/vd/dd/RC/RCFServer3/ondemand/NEUMBSTRAMRCN.mp4
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/dqIuNc5.jpg",Porta dos Fundos: Contrato Vitalicio (2016)
+http://vd.ec.cx/vd/dd/RC/RCFServer3/ondemand/PRTSDFNDCTRVIT.mp4
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/rcVfvla.jpg",Ouro, Suor e Lagrimas (2015)
+http://vd.ec.cx/vd/dd/RC/RCFServer3/ondemand/OURSURELGRM.mp4
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/N5HhEIB.jpg",Os Penetras (2012)
+http://vd.ec.cx/vd/dd/RC/RCFServer3/ondemand/OSPNTRS.mp4
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/dg6FghI.jpg",Os Normais: O Filme (2003)
+http://vd.ec.cx/vd/dd/RC/RCFServer3/ondemand/OSNRMASOFLM.mp4
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/eQmLa4p.jpg",O Roubo da Taca (2016)
+http://vd.ec.cx/vd/dd/RC/RCFServer3/ondemand/OROBDTA.mp4
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/kRTJJk9.jpg",Qualquer Gato Vira-Lata 2 (2015)
+http://vd.ec.cx/vd/dd/RC/RCFServer3/ondemand/QLQURGTVRLT2.mp4
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/89OsYin.jpg",Qualquer Gato Vira-Lata (2011)
+http://vd.ec.cx/vd/dd/RC/RCFServer3/ondemand/QLQURGTVRLT.mp4
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/Ea0Nb9V.jpg",Reza a Lenda (2016)
+http://vd.ec.cx/vd/dd/RC/RCFServer3/ondemand/RZALND.mp4
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/hhgeAlJ.jpg",Superpai (2015)
+http://vd.ec.cx/vd/dd/RC/RCFServer3/ondemand/SPRPAI.mp4
 
 #EXTINF:-1 tvg-logo="https://resizing.flixster.com/A-6k83WMf4X3dKxnFBGUmFTx1zs=/206x305/v1.bTsxMjM2MzM0MztqOzE3MzMzOzEyMDA7NDgwOzcyMA",THE WARRIORS GATE - Dublado
 http://vd.ec.cx/vd/dd/RC/RCFServer3/ondemand/WRISGT.mp4
