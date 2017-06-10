@@ -1,10 +1,17 @@
 #EXTM3U
 
+
+
+
 #EXTINF:-1 tvg-logo="http://i.imgur.com/uUWqLHg.jpg",John Wick 2 – Um Novo Dia para Matar (2017)
 http://ca.netcine.tv/ntcdnbucket/filmes2017/JOHNWICKDUBB-BAIXO.mp4
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/P0CP2Ku.jpg",Fragmentado (2017)
 http://ca.netcine.tv/ntcdnbucket/filmes2017/FRAGDUB-ALTO.mp4
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/DWHbLvo.jpg",Hulk: Onde os Monstros Habitam (2017)
+http://ca.netcine.tv/ntcdnbucket/filmes2017/HULK2017DUB-BAIXO.mp4
+
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/JhaLfZH.jpg",Nossos Amantes (2017)
 http://vd.ec.cx/vd/dd/RC/RCFServer3/ondemand/NOSAMNTS.mp4
