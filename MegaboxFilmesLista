@@ -48,6 +48,9 @@ http://ca.netcine.tv/ntcdnbucket/filmes2017/LEG0B4TM4NDUB-BAIXO.mp4
 #EXTINF:-1 tvg-logo="http://i.imgur.com/JhaLfZH.jpg",Nossos Amantes (2017)
 http://vd.ec.cx/vd/dd/RC/RCFServer3/ondemand/NOSAMNTS.mp4
 
+#EXTINF:-1 tvg-logo="https://goo.gl/Z0Pwfn" group-title="FILMES", A CHEGADA - (2017) - DUB 
+http://vd.ec.cx/vd/dd/RC/RCFServer3/ondemand/ACHGDA.mp4
+
 #EXTINF:-1 tvg-logo="http://i.imgur.com/c0x7nWP.jpg",O Auto da Compadecida (2000)
 http://vd.ec.cx/vd/dd/RC/RCFServer3/ondemand/OATDCPDCDA.mp4
 
