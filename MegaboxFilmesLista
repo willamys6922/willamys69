@@ -13,9 +13,9 @@ https://play.google.com/store/apps/details?id=me.targa.playlistvbeta
 https://play.google.com/store/apps/details?id=org.xbmc.kodi&hl=pt_BR
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/b9Q3AYu.jpg",A Bela e a Fera  - (2017) - DUB
-https://docs.google.com/file/d/0B4HYJFcw7jMGUFZBcXByY0ZLZmc/preview
+http://comofazer.club/embed/A.Bela.e.a.Fera.2017.1080p.BluRay.x264.DUBLADO.mp4
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/b9Q3AYu.jpg",A Bela e a Fera - (2017) - DUB
+#EXTINF:-1 tvg-logo="http://i.imgur.com/b9Q3AYu.jpg",A Bela e a Fera Gdrive - (2017) - DUB
 plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/0B4HYJFcw7jMGUFZBcXByY0ZLZmc
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/xrJ1PkR.jpg",Vida - (2017) - DUB
