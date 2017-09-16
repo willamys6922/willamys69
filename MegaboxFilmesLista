@@ -9,6 +9,9 @@ http://zeus.netcine.tv/httpdelivery/filmes2017/AMUMIA2017DUB-ALTO.mp4
 #EXTINF:-1 tvg-logo="http://i.imgur.com/5pnVtVy.jpg", Mulher-Maravilha - DUB - 2017
 http://zeus.netcine.tv/httpdelivery/filmes2017/W0M4N2017DUB-ALTO.mp4
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ws89Ik8.jpg",Velozes e Furiosos 8 - DUB - 2017
+http://zeus.netcine.tv/httpdelivery/filmes2017/VELOZES2017DUB-ALTO.mp4
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XWPxHWc.jpg" group-title="LANÇAMENTOS", GUARDIÕES DA GALÁXIA VOL.2 (720p)
 http://zeus.netcine.tv/httpdelivery/filmes2017/GUARDIOES2017DUB-ALTO.mp4
 
@@ -65,8 +68,7 @@ http://zeus.netcine.tv/httpdelivery/filmes2017/GUARDIOES2017DUB-BAIXO.mp4
 #EXTINF:-1 tvg-logo="http://i.imgur.com/9FRxW1T.jpg",Guardiões da Galáxia Vol. 2 - LEG - 2017
 http://zeus.netcine.tv/httpdelivery/filmes2017/GUARDIOESLEG2017-BAIXO.mp4
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sfPmRgu.jpg",Velozes e Furiosos 8 - DUB - 2017
-http://zeus.netcine.tv/httpdelivery/filmes2017/VELOZES2017DUB-BAIXO.mp4
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sfPmRgu.jpg",Velozes e Furiosos 8 - LEG - 2017
 http://zeus.netcine.tv/httpdelivery/filmes2017/VELOZES2017LEG-BAIXO.mp4
