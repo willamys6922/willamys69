@@ -1,6 +1,14 @@
 #EXTM3U
 
 
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RNZvSAg.jpg" group-title="LANÇAMENTOS", A Múmia (2017)
+http://zeus.netcine.tv/httpdelivery/filmes2017/AMUMIA2017DUB-ALTO.mp4
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/5pnVtVy.jpg", Mulher-Maravilha - DUB - 2017
+http://zeus.netcine.tv/httpdelivery/filmes2017/W0M4N2017DUB-ALTO.mp4
+
 #EXTINF:-1 tvg-logo="https://goo.gl/G6JPyd" group-title="LANÇAMENTOS", EM RITMO DE FUGA (LEG - 2017)
 http://zeus.netcine.tv/httpdelivery/filmes2017/RITMODEFUGA2017LEG-ALTO.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/e3JLso" group-title="LANÇAMENTOS", TRANSFORMERS 5: O ÚLTIMO CAVALHEIRO (LEG - 2017)
