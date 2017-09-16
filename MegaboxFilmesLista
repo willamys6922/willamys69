@@ -9,6 +9,9 @@ http://zeus.netcine.tv/httpdelivery/filmes2017/AMUMIA2017DUB-ALTO.mp4
 #EXTINF:-1 tvg-logo="http://i.imgur.com/5pnVtVy.jpg", Mulher-Maravilha - DUB - 2017
 http://zeus.netcine.tv/httpdelivery/filmes2017/W0M4N2017DUB-ALTO.mp4
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XWPxHWc.jpg" group-title="LANÇAMENTOS", GUARDIÕES DA GALÁXIA VOL.2 (720p)
+http://zeus.netcine.tv/httpdelivery/filmes2017/GUARDIOES2017DUB-ALTO.mp4
+
 #EXTINF:-1 tvg-logo="https://goo.gl/G6JPyd" group-title="LANÇAMENTOS", EM RITMO DE FUGA (LEG - 2017)
 http://zeus.netcine.tv/httpdelivery/filmes2017/RITMODEFUGA2017LEG-ALTO.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/e3JLso" group-title="LANÇAMENTOS", TRANSFORMERS 5: O ÚLTIMO CAVALHEIRO (LEG - 2017)
@@ -29,8 +32,7 @@ http://s.mmfilmes.com/mm/filmes/autopsia-dub-720p.mp4
 http://s.mmfilmes.com/mm/filmes/baywatch-dub-720p.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/vTDstS" group-title="LANÇAMENTOS", BAYWATCH - S.O.S MALIBU (LEG - 2017)
 http://zeus.netcine.tv/httpdelivery/filmes2017/BAYWATCHLEG-ALTO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/XPufPq" group-title="LANÇAMENTOS", GUARDIÕES DA GALÁXIA VOL.2 (720p)
-http://zeus.netcine.tv/httpdelivery/filmes2017/GUARDIOES2017DUB-ALTO.mp4
+
 #EXTINF:-1 tvg-logo="https://goo.gl/XPufPq" group-title="LANÇAMENTOS", GUARDIÕES DA GALÁXIA VOL.2 (LEG - 720p)
 http://zeus.netcine.tv/httpdelivery/filmes2017/GUARDIOESLEG2017-ALTO.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/if6Byx" group-title="LANÇAMENTOS", Z - A CIDADE PERDIDA (720p)
