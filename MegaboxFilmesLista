@@ -1,9 +1,10 @@
 #EXTM3U
 
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/q8QCbyf.jpg" group-title="LANÇAMENTOS", Transformers: O Último Cavaleiro - DUB - (2017)
+http://zeus.netcine.tv/httpdelivery/filmes2017/CAVALEIRO2017DUB-ALTO.mp4
 
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/RNZvSAg.jpg" group-title="LANÇAMENTOS", A Múmia (2017)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RNZvSAg.jpg" group-title="LANÇAMENTOS", A Múmia - DUB - (2017)
 http://zeus.netcine.tv/httpdelivery/filmes2017/AMUMIA2017DUB-ALTO.mp4
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/5pnVtVy.jpg", Mulher-Maravilha - DUB - 2017
@@ -12,7 +13,7 @@ http://zeus.netcine.tv/httpdelivery/filmes2017/W0M4N2017DUB-ALTO.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ws89Ik8.jpg",Velozes e Furiosos 8 - DUB - 2017
 http://zeus.netcine.tv/httpdelivery/filmes2017/VELOZES2017DUB-ALTO.mp4
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XWPxHWc.jpg" group-title="LANÇAMENTOS", GUARDIÕES DA GALÁXIA VOL.2 (720p)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XWPxHWc.jpg" group-title="LANÇAMENTOS", GUARDIÕES DA GALÁXIA VOL.2 - DUB - (720p)
 http://zeus.netcine.tv/httpdelivery/filmes2017/GUARDIOES2017DUB-ALTO.mp4
 
 #EXTINF:-1 tvg-logo="https://goo.gl/G6JPyd" group-title="LANÇAMENTOS", EM RITMO DE FUGA (LEG - 2017)
