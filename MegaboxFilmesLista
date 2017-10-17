@@ -1,5 +1,14 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PKnoU03.jpg" group-title="LANÇAMENTOS", PLANETA DOS MACACOS 3: A GUERRA (2017)
+http://zeus.netcine.tv/httpdelivery/filmes2017/PDMAG-ALTO.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PKnoU03.jpg" group-title="LANÇAMENTOS", PLANETA DOS MACACOS 3: A GUERRA (LEG - 2017)
+http://zeus.netcine.tv/httpdelivery/filmes2017/PLANETADOSMACACOS-ALTO.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4alW1xO.jpg" group-title="LANÇAMENTOS", AS AVENTURAS DO CAPITÃO CUECA - O FILME (2017)
+http://assistir.querofilmehd.com/filmes/As.Aventuras.Do.Capitao.Cueca.2017.720p.BluRay.x264-DRONES.Dual-RDN.mp4
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Fufe4dP.jpg" group-title="LANÇAMENTOS", O Culto de Chucky : Sem Cortes - DUB - (2017)
 http://assistir.querofilmehd.com/filmes/O.Culto.de.Chucky.Sem.Cortes.2017.720p.BluRay.x264.ROVERS.DUAL-SynysteR.mp4
 
