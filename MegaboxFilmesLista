@@ -1,6 +1,9 @@
 #EXTM3U
 
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MP9Hf6J.jpg" group-title="LANÇAMENTOS", Em Ritmo De Fuga  (2017)
+http://zeus.netcine.tv/httpdelivery/filmes2017/ERDF2017DUB-ALTO.mp4
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8XDEcSr.jpg" group-title="LANÇAMENTOS", Carros 3  (2017)
 http://assistir.querofilmehd.com/filmes/Cars.3.2017.1080p.AMZN.WEB-DL.DD+5.1.H.264-SiGMA%20DUAL%20AUDIO.mp4
 
