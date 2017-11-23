@@ -1,6 +1,19 @@
 #EXTM3U
 
 
+#EXTINF:-1 tvg-logo="https://goo.gl/YpsR2d" group-title="LANÇAMENTOS", VALERIAN E A CIDADE DOS MIL PLANETAS (LEG - 2017)
+http://zeus.netcine.tv/httpdelivery/filmes2017/VTCOFTP-ALTO.mp4
+
+#EXTINF:-1 tvg-logo="https://goo.gl/H82enj" group-title="LANÇAMENTOS", A NOITE É DELAS (2017)
+http://cdn.vstreaming.net/movies/noitedelas-dub-1080p.mp4
+
+#EXTINF:-1 tvg-logo="https://goo.gl/Mkq7hu" group-title="LANÇAMENTOS", A AUTÓPSIA (2017)
+http://cdn.vstreaming.net/movies/autopsia-dub-720p.mp4
+
+#EXTINF:-1 tvg-logo="https://goo.gl/PHAoq5" group-title="LANÇAMENTOS", IT: A COISA (LEG - 2017)
+http://zeus.netcine.tv/httpdelivery/filmes2017/ACOISA2017LEG-ALTO.mp4
+
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MP9Hf6J.jpg" group-title="LANÇAMENTOS", Em Ritmo De Fuga  (2017)
 http://zeus.netcine.tv/httpdelivery/filmes2017/ERDF2017DUB-ALTO.mp4
 
