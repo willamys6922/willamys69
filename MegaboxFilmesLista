@@ -1,5 +1,17 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5yiT4XH.jpg" group-title="LANÇAMENTOS", FEITO NA AMÉRICA (LEG - 2017)
+http://zeus.netcine.tv/httpdelivery/filmes2017/AM2017LEG-ALTO.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MLMYHP7.jpg" group-title="LANÇAMENTOS", O ASSASSINO: O PRIMEIRO ALVO (LEG - 2017)
+http://zeus.netcine.tv/httpdelivery/filmes2017/AMERICANA20177LEG-ALTO.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HddMhMf.jpg" group-title="LANÇAMENTOS", NA MIRA DO ATIRADOR (2017)
+http://themediafire.club/ondemand/NaMiraDoAtirador%20Dublado.mp4
+
+
+
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3rN5tbD.jpg" group-title="LANÇAMENTOS", Emoji: O Filme (Dub- 2017)
 http://ip174.ip-158-69-7.net/lanc/Emoji.O.Filme.2017.mp4
 
