@@ -1,9 +1,12 @@
 #EXTM3U
 
 
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LXlNNSr.jpg" group-title="LANÇAMENTOS", Bingo: O Rei das Manhãs (2017)
 https://s5.escdn.co/hls/jg6ntvpcfrtu7m7cy2xfo3it23tzce4bynufbgp6sjgtbgbligw6ygshagma/index-v1-a1.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LXlNNSr.jpg" group-title="LANÇAMENTOS", Bingo: O Rei das Manhãs (2017)
+http://s004.thevid.net/v/1477e82cb8476e91dca07b14fa38a0fc.mp4?e=1512462975&sa=2j2OjlUfQJlRfd9JfVnnDQ&st=YZXyYRhDTXvvck2X6X0IEA
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oQ32JCU.jpg" group-title="LANÇAMENTOS", O QUE SERÁ DE NOZES 2 (2017)
 http://themediafire.club/ondemand/OQueSeraDeNozes2%20Dublado.mp4
