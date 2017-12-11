@@ -1,9 +1,8 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/LXlNNSr.jpg" group-title="LANÇAMENTOS", Bingo: O Rei das Manhãs (2017)
-https://s5.escdn.co/hls/jg6ntvpcfrtu7m7cy2xfo3it23tzce4bynufbgp6sjgtbgbligwwgxcnagma/index-v1-a1.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/LXlNNSr.jpg" group-title="LANÇAMENTOS", Bingo: O Rei das Manhãs (2017)
-https://shipova.fruithosted.net/dl/n/SSw5iIQnujYZl3WZ/mcpmeaanmrodelff/F688dhnwEWujbB686qODL9LCLcownjtMI207vTxbEOXs1BzwyyQgg6iTtekowvG0am1vAuMyASC2jzmL-iQLBx4_8oHYp5QX1yBHjxdfwrSXOhFtus5h1S2kCF5l8QJY2Id6TRgsUE3UE4MhOsz8ceXH89OmN9fp11945f9Aj8qQRBAVb_FS98D1JfHTs34hjiC1ZDElpMqGRZ0yO7Uhvkm52Qd3JZWp8sAlc9dCKrZbt6kBIGDBE-nBmgimSvt9Gyo8faGm8B6oKSYV3BhM0J4Ce4nxXzT5fKK5X804eeY-RdkRcueb9Yt5jYlXD8ggMm_CbtujRFXTmokzwosB7-5IAreMlxsSxCXwvPAcbAym_jXmyffjzJlxYiUbrMQ6eg0hCr6bmc-mqTB5vGe7b0Icj2R0-bw3u5mP_RYmhctWCqi2P4sUyyKrn42nVT4heXXRcyhYMeJ8StPACQo2gg/FILMESONLINE.ONLINE
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cLwknHz.jpg" group-title="LANÇAMENTOS", ATÔMICA (2017)
+http://s.vstreaming.net/movies/atomica-dub-720p.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NNVrn2E.jpg" group-title="LANÇAMENTOS", ESTA É A SUA MORTE: O SHOW (2017)
 http://s.vstreaming.net/movies/thisisyourdeath-dub-720p.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/COUHb9b.jpg" group-title="LANÇAMENTOS", ANTES QUE EU VÁ (2017)
@@ -21,8 +20,7 @@ http://zeus.netcine.tv/httpdelivery/filmes2017/POLEMONKIMETALEG-ALTO.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oQ32JCU.jpg" group-title="LANÇAMENTOS", O QUE SERÁ DE NOZES 2 (2017)
 http://themediafire.club/ondemand/OQueSeraDeNozes2%20Dublado.mp4
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/cLwknHz.jpg" group-title="LANÇAMENTOS", ATÔMICA (2017)
-http://s.vstreaming.net/movies/atomica-dub-720p.mp4
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/H1653gK.jpg" group-title="LANÇAMENTOS", 1922 (2017)
 http://s.vstreaming.net/movies/1922-dub-720p.mp4
