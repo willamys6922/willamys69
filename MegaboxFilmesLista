@@ -1,5 +1,16 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/je6G5nu.jpg" group-title="LANÇAMENTOS", KINGSMAN 2: O CÍRCULO DOURADO (2017)
+http://zeus.netcine.tv/httpdelivery/filmes2017/KINGSMAN2017DUB-ALTO.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/je6G5nu.jpg" group-title="LANÇAMENTOS", KINGSMAN 2: O CÍRCULO DOURADO (LEG - 2017)
+http://zeus.netcine.tv/httpdelivery/filmes2017/KINGS2017LEG-ALTO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/RxRW7c" group-title="LANÇAMENTOS", FEITO NA AMÉRICA  (2017)
+http://ic-bbb48300-09ba41-1bjdobr.s.loris.llnwd.net/httpdelivery/filmes2017/FEITOAMERICADUB-ALTO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/RxRW7c" group-title="LANÇAMENTOS", FEITO NA AMÉRICA (LEG - 2017)
+http://zeus.netcine.tv/httpdelivery/filmes2017/AM2017LEG-ALTO.mp4
+
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2NbblEg.jpg" group-title="LANÇAMENTOS", Como se Tornar o Pior Aluno da Escola (2017)
 http://ic-bbb48300-0a4e5d-1bjdobr.s.loris.llnwd.net/httpdelivery/filmes2017/CSATOPADENACIONAL-ALTO.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cLwknHz.jpg" group-title="LANÇAMENTOS", ATÔMICA (2017)
