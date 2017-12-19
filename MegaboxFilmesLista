@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MgjWJtS.jpg" group-title="LANÇAMENTOS", BINGO: O REI DAS MANHÃS (2017)
+http://s.vstreaming.net/movies/bingo-dub-720p.mp4
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/je6G5nu.jpg" group-title="LANÇAMENTOS", KINGSMAN 2: O CÍRCULO DOURADO (2017)
 http://zeus.netcine.tv/httpdelivery/filmes2017/KINGSMAN2017DUB-ALTO.mp4
 
