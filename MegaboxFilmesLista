@@ -1,5 +1,9 @@
 #EXTM3U
 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zCToi8f.jpg" group-title="LANÇAMENTOS", It: A Coisa - DUB  (2017) 
+http://ic-b187fc00-074472-1bjdobr.s.loris.llnwd.net/httpdelivery/filmes2017/ITCOISADUB-ALTO.mp4
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MgjWJtS.jpg" group-title="LANÇAMENTOS", BINGO: O REI DAS MANHÃS (2017)
 http://s.vstreaming.net/movies/bingo-dub-720p.mp4
 
