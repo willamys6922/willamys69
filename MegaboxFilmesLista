@@ -1,6 +1,25 @@
 #EXTM3U
 
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8Lv57KL.jpg" group-title="LANÇAMENTOS", BLADE RUNNER 2049 (2017)
+http://origin.ntcdn.us/content/httpdelivery/filmes2017/BR2049LEG-ALTO.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6Lp3V2q.jpg" group-title="LANÇAMENTOS", LIGA DA JUSTIÇA (LEG - 2017)
+http://origin.ntcdn.us/content/httpdelivery/filmes2017/JUSTICALIGA2017LEG-ALTO.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oB62sb1.jpg" group-title="LANÇAMENTOS", BRIGHT (2017)
+http://zeus.netcine.tv/httpdelivery/filmes2017/BRIGHTDUB-ALTO.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oB62sb1.jpg" group-title="LANÇAMENTOS", BRIGHT (LEG - 2017)
+http://zeus.netcine.tv/httpdelivery/filmes2017/BRIGHTLEG-ALTO.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ayTVmNI.jpg" group-title="LANÇAMENTOS", ALÉM DA MORTE (2017)
+http://s.vstreaming.net/movies/alemdamorte-dub-720p.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NPwae6d.jpg" group-title="LANÇAMENTOS", OLAF EM UMA NOVA AVENTURA CONGELANTE DE FROZEN (2017)
+http://themediafire.club/ondemand/OlafNovaAventura%20Dublado.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NhcMvkq.jpg" group-title="LANÇAMENTOS", TROLLS: VAMOS FESTEJAR (2017)
+http://themediafire.club/ondemand/TrollsVamosFestejar%20Dublado.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pMIRkG5.jpg" group-title="LANÇAMENTOS", MÃE! (2017)
+http://s.vstreaming.net/movies/mom-dub-720p.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rIQZubG.jpg" group-title="LANÇAMENTOS", EM DEFESA DE CRISTO (2017)
+http://s.vstreaming.net/movies/ocasodecistro-dub-720p.mp4
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zCToi8f.jpg" group-title="LANÇAMENTOS", It: A Coisa - DUB  (2017) 
 http://ic-b187fc00-074472-1bjdobr.s.loris.llnwd.net/httpdelivery/filmes2017/ITCOISADUB-ALTO.mp4
 
