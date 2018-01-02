@@ -1,10 +1,40 @@
 #EXTM3U
-
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8Lv57KL.jpg" group-title="LANÇAMENTOS", BLADE RUNNER 2049 (2017)
 http://origin.ntcdn.us/content/httpdelivery/filmes2017/BR2049LEG-ALTO.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EuK0Zwx.jpg" group-title="LANÇAMENTOS", LEATHERFACE (LEG - 2017)
+http://cdnv7.ec.cx/RedeCanais/RedeCanais/RCFServer4/ondemand/LETHRFCLEG.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/a0qZ5WM.jpg" group-title="LANÇAMENTOS", Incarnate (2017)
+http://cdnv7.ec.cx/RedeCanais/RedeCanais/RCFServer4/ondemand/DMNCAO.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/c7r3fbi.jpg" group-title="LANÇAMENTOS", ALIBI.COM (2017)
+http://cdnv7.ec.cx/RedeCanais/RedeCanais/RCFServer4/ondemand/ALBCM.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/U89nxcO.jpg" group-title="LANÇAMENTOS", EM BUSCA DE VINGANÇA (2017)
+http://cdnv7.ec.cx/RedeCanais/RedeCanais/RCFServer4/ondemand/EMBSCDVNG.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/31emXGi.jpg" group-title="LANÇAMENTOS", O BAR (2017)
+http://cdnv7.ec.cx/RedeCanais/RedeCanais/RCFServer4/ondemand/OBAR.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UjVleIg.jpg" group-title="LANÇAMENTOS", O ESTRANGEIRO (LEG - 2017)
+http://cdnv7.ec.cx/RedeCanais/RedeCanais/RCFServer4/ondemand/OESTNGROLEG.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xwOZYbs.jpg" group-title="LANÇAMENTOS", O REINO GELADO 3: FOGO E GELO (2017)
+http://cdnv7.ec.cx/RedeCanais/RedeCanais/RCFServer4/ondemand/ORNOGLDO3.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4gdZMC7.png" group-title="LANÇAMENTOS", O CASTELO DE VIDRO (2017)
+http://cdnv7.ec.cx/RedeCanais/RedeCanais/RCFServer4/ondemand/OCSTLDVDR.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xqoBmu1.jpg" group-title="LANÇAMENTOS", OPERAÇÃO MEKONG (2017)
+http://cdnv7.ec.cx/RedeCanais/RedeCanais/RCFServer4/ondemand/OPRCMKNG.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dJYwjoT.jpg" group-title="LANÇAMENTOS", o zoológico de varsóvia
+http://cdnv7.ec.cx/RedeCanais/RedeCanais/RCFServer4/ondemand/OZOLGCDVRSVIA.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QHJQGv6.jpg" group-title="LANÇAMENTOS", RESPOSTA ARMADA (2017)
+http://cdnv7.ec.cx/RedeCanais/RedeCanais/RCFServer4/ondemand/RESPSTARMDA.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PVj6US6.jpg" group-title="LANÇAMENTOS", SANGUE PELA GLÃ“RIA (2017)
+http://cdnv7.ec.cx/RedeCanais/RedeCanais/RCFServer4/ondemand/SNGPLGLR.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hjxjTna.jpg" group-title="LANÇAMENTOS", SONO MORTAL (2017)
+http://cdnv7.ec.cx/RedeCanais/RedeCanais/RCFServer4/ondemand/SONMRTL.mp4
+
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6Lp3V2q.jpg" group-title="LANÇAMENTOS", LIGA DA JUSTIÇA (AUDIO DE CINEMA- 2017)
+http://s.vstreaming.net/movies/justiceleague-dub-1080p.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6Lp3V2q.jpg" group-title="LANÇAMENTOS", LIGA DA JUSTIÇA (LEG - 2017)
-http://origin.ntcdn.us/content/httpdelivery/filmes2017/LJ2017LEG-BAIXO.mp4
+http://zeus.netcine.tv/httpdelivery/filmes2017/JUSTICALIGA2017LEG-ALTO.mp4
 http://zeus.netcine.tv/httpdelivery/filmes2017/BRIGHTDUB-ALTO.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oB62sb1.jpg" group-title="LANÇAMENTOS", BRIGHT ( 2017)
 http://origin.ntcdn.us/content/httpdelivery/filmes2017/BRIGHTDUB-ALTO.mp4
