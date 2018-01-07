@@ -2,7 +2,7 @@
 
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="Em ritimo de fuga" tvg-logo="https://i.imgur.com/20NsNV8.jpg" group-title="",Em ritimo de fuga
-https://r2---sn-q4f7sn7z.c.drive.google.com/videoplayback?id=264a1e296bdc8b01&itag=18&source=webdrive&requiressl=yes&pl=48&sc=yes&ttl=transient&ei=g5BRWtv1IoHJqAXWq7XYBw&driveid=0B4mnIXiTYE06U3FEcWh5SGg1UG8&app=explorer&mime=video/mp4&lmt=1497913476132687&ip=2804:14c:ca21:1608:159:ae3b:76cf:84d4&ipbits=0&expire=1515298451&cp=QVNGV0NfV1RTQlhOOkV0ckpXeThtNFN4&sparams=app,cp,driveid,ei,expire,id,ip,ipbits,itag,lmt,mime,mm,mn,ms,mv,pl,requiressl,sc,source,ttl&signature=7022D07D539C02DC91F658D0DA08755247503224.550C0546C249BC8C0A2231B4892B02611B68A3F8&key=cms1&cpn=s1xEFVyaPrKNU_2e&c=WEB_EMBEDDED_PLAYER&cver=20180104&redirect_counter=1&cm2rm=sn-bg0sy7l&req_id=a5e5fb9162ef36e2&cms_redirect=yes&mm=34&mn=sn-q4f7sn7z&ms=ltu&mt=1515294037&mv=u
+https://dl.dropboxusercontent.com/content_link/txn1maQX8TvbBqH3IPlvKkvk659LxfzcEl3lQpCH0nnjhB0MY8rPK9xX6L6uVMgI/file?dl=1
 #EXTINF:-1 tvg-id="" tvg-name="Em ritimo de fuga" tvg-logo="https://i.imgur.com/20NsNV8.jpg" group-title="",Em ritimo de fuga
 https://oqfnxh.oloadcdn.net/dl/l/b-qaNmpFa-r_nanS/uBNTjtcUbXA/Em.Ritmo.de.Fuga.2017.720p.BluRay.6CH.x264.DUAL-WWW.BLUDV.COM.mkv.mp4
 #EXTINF:-1 tvg-id="" tvg-name="A Morte Te Dá Parabéns LEG SD" tvg-logo="http://cdnstk.ntcdn.us/wp-content/uploads/2017/12/eieieiei-120x170.jpg" group-title="",A Morte Te Dá Parabéns LEG SD
@@ -6922,10 +6922,4 @@ http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/VQDRCRT2.mp4?STANIPTV
 http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/VDVNGNCA.mp4?STANIPTV
 #EXTINF:-1 tvg-logo="http://i.imgur.com/SqS6Goj.jpg" group-title="FILMES - LETRA V",Vovó... Zona (2000)
 http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/VOVZNA.mp4?STANIPTV
-#EXTINF:-1 tvg-logo="http://i.imgur.com/RQW2C3K.jpg" group-title="FILMES - LETRA V",Vovó... Zona 2 (2006)
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/VOVZNA2.mp4?STANIPTV
-#EXTINF:-1 tvg-logo="http://i.imgur.com/nUXlQkf.jpg" group-title="FILMES - LETRA V",Vovó... Zona 3 (2011)
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/VOVZNA3.mp4?STANIPTV
-#EXTINF:-1 tvg-logo="http://i.imgur.com/FHdgKeN.jpg" group-title="FILMES - LETRA V",Victor Frankenstein (2015)
-http://v3.ec.cx/RedeCanais/RCFServer3/ondemand/VCTFRNKSTEN.mp4?STANIPTV
-#EXTINF:-1 tvg-logo="http://i.imgur.com/btTFFmn.jpg" gr
+#EXTINF:-1 
