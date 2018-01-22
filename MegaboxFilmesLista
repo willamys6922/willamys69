@@ -2,6 +2,21 @@
 
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://goo.gl/HPK14G" group-title="2018", THOR 3: RAGNAROK (LEG - 2018)
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/THORRLEG-ALTO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/dviXw2" group-title="2018", ONDE ESTÃ SEGUNDA? (2018)
+http://s.vstreaming.net/movies/segundafeira-dub-720p.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/7Ut1zz" group-title="2018", A GUERRA DOS SEXOS (2018)
+http://cloud.popfilmeshd.net/popfilmes//FILMES/DUBLADO/AGDSDUB-ALTO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/962cg5" group-title="2018", A MENINA ÃNDIGO (2018)
+http://cloud.popfilmeshd.net/popfilmes/FILMES/DUBLADO/AMIDUB-ALTO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/KaXbHg" group-title="2018", A COMÃ‰DIA DIVINA (2018)
+http://cloud.popfilmeshd.net/popfilmes/FILMES/DUBLADO/ACDDUB-ALTO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/w2yBwS" group-title="2018", O RASTRO (2018)
+http://cloud.popfilmeshd.net/popfilmes/FILMES/DUBLADO/ORASTRODUB-ALTO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/Tx1iS3" group-title="2018", VOLDEMORT: A ORIGEM DO HERDEIRO (LEG - 2018)
+http://cloud.popfilmeshd.net/popfilmes/FILMES/LEGENDADO/Voldemort.mp4
+
 #EXTINF:-1 tvg-logo="https://goo.gl/qNK3AB" group-title="2018", JOGOS MORTAIS 8: JIGSAW (LEG - 2018)
 http://cdn1.ntcdn.us/content/httpdelivery/filmes2017/JIGSAW2017LEG-ALTO.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/w2aLRp" group-title="2018", A MORTE TE DÃ PARABÃ‰NS (LEG - 2018)
