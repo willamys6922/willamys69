@@ -2,6 +2,14 @@
 
 #EXTM3U
 
+
+#EXTINF:-1 tvg-logo="https://goo.gl/MKhgfn" group-title="2018", PICA-PAU: O FILME (2018)
+http://themediafire.club/ondemand/PICAPAU%20DUBLADO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/xSneVu" group-title="2018", O ESTADO DAS COISAS (2018)
+http://themediafire.club/ondemand/OESTADODASCOISAS%20DUBLADO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/ydJrUf" group-title="2018", ALVO TRIPLO (2018)
+http://themediafire.club/ondemand/ALVOTRIPLO%20DUBLADO.mp4
+
 #EXTINF:-1 tvg-logo="https://goo.gl/HPK14G" group-title="2018", THOR 3: RAGNAROK (LEG - 2018)
 http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/THORRLEG-ALTO.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/dviXw2" group-title="2018", ONDE ESTÃ SEGUNDA? (2018)
