@@ -2,7 +2,8 @@
 
 #EXTM3U
 
-
+#EXTINF:-1 tvg-logo="http://www.gstatic.com/tv/thumb/movieposters/14591934/p14591934_p_v8_ab.jpg" group-title="2018", Batman: Gotham by Gaslight (2018)
+http://s.vstreaming.net/movies/batmangaslight-dub-480p.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/MKhgfn" group-title="2018", PICA-PAU: O FILME (2018)
 http://s.vstreaming.net/movies/picapau-dub-720p.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/xSneVu" group-title="2018", O ESTADO DAS COISAS (2018)
