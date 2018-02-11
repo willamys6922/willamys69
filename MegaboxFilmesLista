@@ -2,6 +2,35 @@
 
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://goo.gl/8SZ9bv" group-title="2018", AMERICAN SATAN (LEG - 2018)
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/AMERICANSATAN2017LEG-ALTO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/wa1G6Y" group-title="2018", ASSASSINATO NO EXPRESSO DO ORIENTE (LEG - 2018)
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/MUDERONTHEEXPRESS2017LEG-ALTO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/gauQ2M" group-title="2018", THE POST: A GUERRA SECRETA (LEG - 2018)
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/THEPOST2017LEG-ALTO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/kSHCmZ" group-title="2018", O PARADOXO CLOVERFIELD (2018)
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/CLOVERFIELD2018DUB-ALTO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/kSHCmZ" group-title="2018", O PARADOXO CLOVERFIELD (LEG - 2018)
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/CLOVERFIELD2018LEG-ALTO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/VFv3TC" group-title="2018", EXTRAORDINÃRIO (LEG - 2018)
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/WONDERR2018-ALTO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/fZkU7r" group-title="2018", DEPOIS DAQUELA MONTANHA (2018)
+http://185.38.148.71:8080/files/movies/Depois.Daquela.Montanha.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/RBvMG5" group-title="2018", NO LIMITE (2018)
+https://dropapk.com/vidembed-clkcai5mfqli.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/6KjWmc" group-title="2018", BATMAN: GOTHAM BY GASLIGHT (2018)
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/BATMANBYGASLIGHTDUB-ALTO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/6KjWmc" group-title="2018", BATMAN: GOTHAM BY GASLIGHT (LEG - 2018)
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/GOTHAMGASLIGHT18LEG-ALTO.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/fZyv4p" group-title="2018", MY LITTLE PONY - O FILME (2018)
+http://cdnv18.ec.cx/RedeCanais/RedeCanais/RCFServer4/ondemand/MYLTLEPNYOFLM.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/NVXsns" group-title="2018", BIG PAI - BIG FILHO (2018)
+https://dropapk.com/vidembed-2lenixyxss6s.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/JMn6QQ" group-title="2018", MISSÃƒO CEGONHA (2018)
+http://s.vstreaming.net/movies/cegonha-dub-720p.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/MKhgfn" group-title="2018", PICA-PAU: O FILME (2018)
+http://s.vstreaming.net/movies/picapau-dub-720p.mp4
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/g87urX7.jpg" group-title="2018", Batman: Gotham by Gaslight (2018)
 http://s.vstreaming.net/movies/batmangaslight-dub-480p.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/MKhgfn" group-title="2018", PICA-PAU: O FILME (2018)
