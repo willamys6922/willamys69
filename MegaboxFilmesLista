@@ -2,6 +2,9 @@
 
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://goo.gl/9WT2i7" group-title="2018", PAI EM DOSE DUPLA 2 (DUB)
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/PAIDOSEDUPLA2DUB-ALTO.mp4
+
 #EXTINF:-1 tvg-logo="https://goo.gl/8SZ9bv" group-title="2018", AMERICAN SATAN (LEG - 2018)
 http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/AMERICANSATAN2017LEG-ALTO.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/wa1G6Y" group-title="2018", ASSASSINATO NO EXPRESSO DO ORIENTE (LEG - 2018)
