@@ -13,7 +13,8 @@ http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/AMERICANSATAN2017LEG-ALTO.m
 http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/THEPOST2017LEG-ALTO.mp4
 #EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yAgwvRFnwQSWklayt1vMBLoCna7.jpg" group-title="Vod! Ondemand!",Assassinato no Expresso do Oriente (Legendado) - 2017  - 720p
 http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/MUDERONTHEEXPRESS2017LEG-ALTO.mp4
-
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/geyu6rplpbp7OUeOfB2uRVf1LpG.jpg" group-title="Vod! Ondemand!",Liga da JustiÃ§a (Dublado) - 2017  - 720p
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/JUSTICALIGA2017DUB-ALTO.mp4
 #EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bgSHbGEA1OM6qDs3Qba4VlSZsNG.jpg" group-title="Vod! Ondemand!",Transformers (Dublado) - 2007 - 720p
 http://cdn1.ntcdn.us/content/httpdelivery/filmes2017/TF01DUB-ALTO.mp4
 #EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k8b0QXzjQVpViS81rbMXU0Y2T3x.jpg" group-title="Vod! Ondemand!",Transformers: A VinganÃ§a dos Derrotados (Dublado) - 2009 - 720p
@@ -34,6 +35,14 @@ http://s.vstreaming.net/movies/picapau-dub-720p.mp4
 http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/THORRLEG-ALTO.mp4
 #EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n5Zd5QIrAWOEYW7V7Tm7MiMC2aE.jpg" group-title="Vod! Ondemand!",A Morte Te DÃ¡ ParabÃ©ns (Dublado) - 2017 - 720p
 http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/HAPPYDEATHDDUB-ALTO.mp4
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o8hE0wbJKL0ise4NuX3g5vZHznv.jpg" group-title="Vod! Ondemand!",Voldemort: Origins of the Heir (Legendado) - 2018 - 720p
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/VOLDEMORT2018-ALTO.mp4
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7souLi5zqQCnpZVghaXv0Wowi0y.jpg" group-title="Vod! Ondemand!",Batman: Gotham by Gaslight (Legendado) - 2018 - 720p
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/GOTHAMGASLIGHT18LEG-ALTO.mp4
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tAcsTHfzYwxe0QkarzHqNfnqvxa.jpg" group-title="Vod! Ondemand!",Vende-se Esta Casa (Legendado) - 2018 - 720p
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/OPENHOUSE2018LEG-ALTO.mp4
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dnXqUTvBfqt5CDcyjJ6ziQBp1q4.jpg" group-title="Vod! Ondemand!",Jogos Mortais: Jigsaw (Legendado) - 2017 - 720p
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2017/JIGSAW2017LEG-ALTO.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/D342WX" group-title="2018", ME CHAME PELO SEU NOME (LEG)
 http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/CALLMEBYNAME2018LEG-ALTO.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/RVavua" group-title="2018", PEQUENA GRANDE VIDA (LEG)
