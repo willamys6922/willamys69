@@ -1,9 +1,9 @@
 #EXTM3U
 
 
-#EXTINF:-1  tvg-logo="https://play.google.com/store/apps/details?id=com.staf621.ki4a&hl=pt_BR" group-title="Vod! Ondemand!",Thor: Ragnarok (Dublado) - 2018  - 720p
+#EXTINF:-1  tvg-logo="https://i.imgur.com/uqUApiw.jpg" group-title="Vod! Ondemand!",Thor: Ragnarok (Dublado) - 2018  - 720p
 http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/THOR2017DUB-ALTO.mp4
-#EXTINF:-1  tvg-logo="https://play.google.com/store/apps/details?id=com.staf621.ki4a&hl=pt_BR" group-title="Vod! Ondemand!",Thor: Ragnarok (legendado) - 2018  - 720p
+#EXTINF:-1  tvg-logo="https://i.imgur.com/uqUApiw.jpg" group-title="Vod! Ondemand!",Thor: Ragnarok (legendado) - 2018  - 720p
 http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/THORRLEG-ALTO.mp4
 
 
